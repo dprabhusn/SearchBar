@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Dangrek&family=Playwrite+IT+Moderna:wght@100..400&display=swap");
+
+.container {
+  max-width: 500px;
+  position: relative;
+}
+
+h2 {
+  font-size: 75px;
+  color: #fff;
+  text-transform: uppercase;
+  opacity: 0.5;
+  font-family: "Dangrek", sans-serif;
+}
+
+body {
+  background-color: #6c541e;
+  font-family: "Playwrite IT Moderna", cursive;
+}
